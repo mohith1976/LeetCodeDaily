@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/mohith1976/LeetCodeDaily/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/mohith1976/LeetCodeDaily/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mohith1976/LeetCodeDaily/tree/master/1248-count-number-of-nice-subarrays) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/mohith1976/LeetCodeDaily/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2831-find-the-longest-equal-subarray](https://github.com/mohith1976/LeetCodeDaily/tree/master/2831-find-the-longest-equal-subarray) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mohith1976/LeetCodeDaily/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Hash Table
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/mohith1976/LeetCodeDaily/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mohith1976/LeetCodeDaily/tree/master/1248-count-number-of-nice-subarrays) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/mohith1976/LeetCodeDaily/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2831-find-the-longest-equal-subarray](https://github.com/mohith1976/LeetCodeDaily/tree/master/2831-find-the-longest-equal-subarray) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mohith1976/LeetCodeDaily/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Prefix Sum
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/mohith1976/LeetCodeDaily/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/mohith1976/LeetCodeDaily/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mohith1976/LeetCodeDaily/tree/master/1248-count-number-of-nice-subarrays) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/mohith1976/LeetCodeDaily/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Math
 |  |
 | ------- |
@@ -50,5 +53,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/mohith1976/LeetCodeDaily/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2831-find-the-longest-equal-subarray](https://github.com/mohith1976/LeetCodeDaily/tree/master/2831-find-the-longest-equal-subarray) |
 <!---LeetCode Topics End-->
