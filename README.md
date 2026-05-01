@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mohith1976/LeetCodeDaily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/mohith1976/LeetCodeDaily/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/mohith1976/LeetCodeDaily/tree/master/0560-subarray-sum-equals-k) |
+| [0611-valid-triangle-number](https://github.com/mohith1976/LeetCodeDaily/tree/master/0611-valid-triangle-number) |
 | [0860-lemonade-change](https://github.com/mohith1976/LeetCodeDaily/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/mohith1976/LeetCodeDaily/tree/master/0881-boats-to-save-people) |
 | [0930-binary-subarrays-with-sum](https://github.com/mohith1976/LeetCodeDaily/tree/master/0930-binary-subarrays-with-sum) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/mohith1976/LeetCodeDaily/tree/master/0611-valid-triangle-number) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/mohith1976/LeetCodeDaily/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2831-find-the-longest-equal-subarray](https://github.com/mohith1976/LeetCodeDaily/tree/master/2831-find-the-longest-equal-subarray) |
 ## Counting
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/mohith1976/LeetCodeDaily/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/mohith1976/LeetCodeDaily/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/mohith1976/LeetCodeDaily/tree/master/0881-boats-to-save-people) |
 ## Greedy
 |  |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/mohith1976/LeetCodeDaily/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mohith1976/LeetCodeDaily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/mohith1976/LeetCodeDaily/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/mohith1976/LeetCodeDaily/tree/master/0611-valid-triangle-number) |
 | [0678-valid-parenthesis-string](https://github.com/mohith1976/LeetCodeDaily/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/mohith1976/LeetCodeDaily/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/mohith1976/LeetCodeDaily/tree/master/0881-boats-to-save-people) |
@@ -93,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/mohith1976/LeetCodeDaily/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/mohith1976/LeetCodeDaily/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/mohith1976/LeetCodeDaily/tree/master/0881-boats-to-save-people) |
 ## String
 |  |
