@@ -16,12 +16,10 @@ class Solution {
             while (left < right) {
                 int currentSum = nums[i] + nums[left] + nums[right];
 
-               
                 if (currentSum == target) {
                     return currentSum;
                 }
-
-               
+   
                 if (Math.abs(currentSum - target) < Math.abs(closestSum - target)) {
                     closestSum = currentSum;
                 }
