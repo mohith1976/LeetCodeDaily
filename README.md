@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mohith1976/LeetCodeDaily/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/mohith1976/LeetCodeDaily/tree/master/0004-median-of-two-sorted-arrays) |
 | [0016-3sum-closest](https://github.com/mohith1976/LeetCodeDaily/tree/master/0016-3sum-closest) |
 | [0045-jump-game-ii](https://github.com/mohith1976/LeetCodeDaily/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/mohith1976/LeetCodeDaily/tree/master/0053-maximum-subarray) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/mohith1976/LeetCodeDaily/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/mohith1976/LeetCodeDaily/tree/master/0053-maximum-subarray) |
 ## Dynamic Programming
 |  |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/mohith1976/LeetCodeDaily/tree/master/0004-median-of-two-sorted-arrays) |
 | [0611-valid-triangle-number](https://github.com/mohith1976/LeetCodeDaily/tree/master/0611-valid-triangle-number) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/mohith1976/LeetCodeDaily/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2831-find-the-longest-equal-subarray](https://github.com/mohith1976/LeetCodeDaily/tree/master/2831-find-the-longest-equal-subarray) |
