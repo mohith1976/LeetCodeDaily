@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/mohith1976/LeetCodeDaily/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/mohith1976/LeetCodeDaily/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mohith1976/LeetCodeDaily/tree/master/1248-count-number-of-nice-subarrays) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/mohith1976/LeetCodeDaily/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2831-find-the-longest-equal-subarray](https://github.com/mohith1976/LeetCodeDaily/tree/master/2831-find-the-longest-equal-subarray) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mohith1976/LeetCodeDaily/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Divide and Conquer
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/mohith1976/LeetCodeDaily/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/mohith1976/LeetCodeDaily/tree/master/0881-boats-to-save-people) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/mohith1976/LeetCodeDaily/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/mohith1976/LeetCodeDaily/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 ## Sorting
 |  |
 | ------- |
@@ -105,10 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/mohith1976/LeetCodeDaily/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/mohith1976/LeetCodeDaily/tree/master/0881-boats-to-save-people) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/mohith1976/LeetCodeDaily/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/mohith1976/LeetCodeDaily/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 ## String
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/mohith1976/LeetCodeDaily/tree/master/0678-valid-parenthesis-string) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/mohith1976/LeetCodeDaily/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 ## Stack
 |  |
 | ------- |
