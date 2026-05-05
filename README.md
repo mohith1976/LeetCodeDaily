@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mohith1976/LeetCodeDaily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mohith1976/LeetCodeDaily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/mohith1976/LeetCodeDaily/tree/master/0217-contains-duplicate) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/mohith1976/LeetCodeDaily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/mohith1976/LeetCodeDaily/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/mohith1976/LeetCodeDaily/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/mohith1976/LeetCodeDaily/tree/master/0611-valid-triangle-number) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mohith1976/LeetCodeDaily/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/mohith1976/LeetCodeDaily/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mohith1976/LeetCodeDaily/tree/master/0242-valid-anagram) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/mohith1976/LeetCodeDaily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/mohith1976/LeetCodeDaily/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/mohith1976/LeetCodeDaily/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/mohith1976/LeetCodeDaily/tree/master/0992-subarrays-with-k-different-integers) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mohith1976/LeetCodeDaily/tree/master/0004-median-of-two-sorted-arrays) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mohith1976/LeetCodeDaily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/mohith1976/LeetCodeDaily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/mohith1976/LeetCodeDaily/tree/master/0611-valid-triangle-number) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/mohith1976/LeetCodeDaily/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2831-find-the-longest-equal-subarray](https://github.com/mohith1976/LeetCodeDaily/tree/master/2831-find-the-longest-equal-subarray) |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/mohith1976/LeetCodeDaily/tree/master/0016-3sum-closest) |
 | [0151-reverse-words-in-a-string](https://github.com/mohith1976/LeetCodeDaily/tree/master/0151-reverse-words-in-a-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/mohith1976/LeetCodeDaily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/mohith1976/LeetCodeDaily/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/mohith1976/LeetCodeDaily/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/mohith1976/LeetCodeDaily/tree/master/0881-boats-to-save-people) |
@@ -120,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/mohith1976/LeetCodeDaily/tree/master/0016-3sum-closest) |
 | [0217-contains-duplicate](https://github.com/mohith1976/LeetCodeDaily/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mohith1976/LeetCodeDaily/tree/master/0242-valid-anagram) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/mohith1976/LeetCodeDaily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/mohith1976/LeetCodeDaily/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/mohith1976/LeetCodeDaily/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/mohith1976/LeetCodeDaily/tree/master/0881-boats-to-save-people) |
