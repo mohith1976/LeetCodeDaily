@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/mohith1976/LeetCodeDaily/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/mohith1976/LeetCodeDaily/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mohith1976/LeetCodeDaily/tree/master/1248-count-number-of-nice-subarrays) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mohith1976/LeetCodeDaily/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/mohith1976/LeetCodeDaily/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1833-maximum-ice-cream-bars](https://github.com/mohith1976/LeetCodeDaily/tree/master/1833-maximum-ice-cream-bars) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/mohith1976/LeetCodeDaily/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohith1976/LeetCodeDaily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/mohith1976/LeetCodeDaily/tree/master/0367-valid-perfect-square) |
 | [0611-valid-triangle-number](https://github.com/mohith1976/LeetCodeDaily/tree/master/0611-valid-triangle-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mohith1976/LeetCodeDaily/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/mohith1976/LeetCodeDaily/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2831-find-the-longest-equal-subarray](https://github.com/mohith1976/LeetCodeDaily/tree/master/2831-find-the-longest-equal-subarray) |
 ## Counting
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/mohith1976/LeetCodeDaily/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/mohith1976/LeetCodeDaily/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/mohith1976/LeetCodeDaily/tree/master/0881-boats-to-save-people) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mohith1976/LeetCodeDaily/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Greedy
 |  |
 | ------- |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/mohith1976/LeetCodeDaily/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/mohith1976/LeetCodeDaily/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/mohith1976/LeetCodeDaily/tree/master/0881-boats-to-save-people) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mohith1976/LeetCodeDaily/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/mohith1976/LeetCodeDaily/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/mohith1976/LeetCodeDaily/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1833-maximum-ice-cream-bars](https://github.com/mohith1976/LeetCodeDaily/tree/master/1833-maximum-ice-cream-bars) |
