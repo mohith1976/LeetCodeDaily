@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/mohith1976/LeetCodeDaily/tree/master/0367-valid-perfect-square) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mohith1976/LeetCodeDaily/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/mohith1976/LeetCodeDaily/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/mohith1976/LeetCodeDaily/tree/master/0004-median-of-two-sorted-arrays) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mohith1976/LeetCodeDaily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohith1976/LeetCodeDaily/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/mohith1976/LeetCodeDaily/tree/master/0367-valid-perfect-square) |
 | [0611-valid-triangle-number](https://github.com/mohith1976/LeetCodeDaily/tree/master/0611-valid-triangle-number) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/mohith1976/LeetCodeDaily/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2831-find-the-longest-equal-subarray](https://github.com/mohith1976/LeetCodeDaily/tree/master/2831-find-the-longest-equal-subarray) |
