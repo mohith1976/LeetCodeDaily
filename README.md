@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/mohith1976/LeetCodeDaily/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mohith1976/LeetCodeDaily/tree/master/1248-count-number-of-nice-subarrays) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mohith1976/LeetCodeDaily/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1480-running-sum-of-1d-array](https://github.com/mohith1976/LeetCodeDaily/tree/master/1480-running-sum-of-1d-array) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/mohith1976/LeetCodeDaily/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1833-maximum-ice-cream-bars](https://github.com/mohith1976/LeetCodeDaily/tree/master/1833-maximum-ice-cream-bars) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/mohith1976/LeetCodeDaily/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/mohith1976/LeetCodeDaily/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/mohith1976/LeetCodeDaily/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mohith1976/LeetCodeDaily/tree/master/1248-count-number-of-nice-subarrays) |
+| [1480-running-sum-of-1d-array](https://github.com/mohith1976/LeetCodeDaily/tree/master/1480-running-sum-of-1d-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/mohith1976/LeetCodeDaily/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Math
 |  |
