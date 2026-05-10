@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/mohith1976/LeetCodeDaily/tree/master/0029-divide-two-integers) |
 | [0367-valid-perfect-square](https://github.com/mohith1976/LeetCodeDaily/tree/master/0367-valid-perfect-square) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mohith1976/LeetCodeDaily/tree/master/1248-count-number-of-nice-subarrays) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mohith1976/LeetCodeDaily/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -165,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/mohith1976/LeetCodeDaily/tree/master/1833-maximum-ice-cream-bars) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/mohith1976/LeetCodeDaily/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
