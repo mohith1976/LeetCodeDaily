@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/mohith1976/LeetCodeDaily/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/mohith1976/LeetCodeDaily/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/mohith1976/LeetCodeDaily/tree/master/0611-valid-triangle-number) |
+| [0812-largest-triangle-area](https://github.com/mohith1976/LeetCodeDaily/tree/master/0812-largest-triangle-area) |
 | [0860-lemonade-change](https://github.com/mohith1976/LeetCodeDaily/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/mohith1976/LeetCodeDaily/tree/master/0881-boats-to-save-people) |
 | [0930-binary-subarrays-with-sum](https://github.com/mohith1976/LeetCodeDaily/tree/master/0930-binary-subarrays-with-sum) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/mohith1976/LeetCodeDaily/tree/master/0029-divide-two-integers) |
 | [0367-valid-perfect-square](https://github.com/mohith1976/LeetCodeDaily/tree/master/0367-valid-perfect-square) |
+| [0812-largest-triangle-area](https://github.com/mohith1976/LeetCodeDaily/tree/master/0812-largest-triangle-area) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mohith1976/LeetCodeDaily/tree/master/1248-count-number-of-nice-subarrays) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mohith1976/LeetCodeDaily/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/mohith1976/LeetCodeDaily/tree/master/1903-largest-odd-number-in-string) |
@@ -177,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/mohith1976/LeetCodeDaily/tree/master/0175-combine-two-tables) |
+## Geometry
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/mohith1976/LeetCodeDaily/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
