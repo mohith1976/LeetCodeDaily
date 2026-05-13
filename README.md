@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/mohith1976/LeetCodeDaily/tree/master/1480-running-sum-of-1d-array) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/mohith1976/LeetCodeDaily/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mohith1976/LeetCodeDaily/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1800-maximum-ascending-subarray-sum](https://github.com/mohith1976/LeetCodeDaily/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1833-maximum-ice-cream-bars](https://github.com/mohith1976/LeetCodeDaily/tree/master/1833-maximum-ice-cream-bars) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/mohith1976/LeetCodeDaily/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/mohith1976/LeetCodeDaily/tree/master/2302-count-subarrays-with-score-less-than-k) |
